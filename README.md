@@ -4,3 +4,5 @@ Particpants of studies should be given a consent form and bill of rights. This i
 
 These have been written up for Human Computer Interaction (HCI) in Computer Science but can be adjusted for your needs. 
 
+# Caution 
+These forms may be incorrect and are intended as a starting point! You take all risks by downloading and reading these forms. These forms are free to use however it would be nice to be citiated in your work!
