@@ -1,9 +1,3 @@
-# Ethics-Forms-Tempates-For-Swansea-Universtiy
-This repositry contains unoffical template forms for the College Of Science Ethics Committee at Swansea University, more specifically research involving humans
-Particpants of studies should be given a consent form and bill of rights. This is so they know what they are doing, that they are safe and that they can leave at any time.
+# This git is archived as there is now offical forms from Swansea University ethics -  Please use them instead
 
-These have been written up for Human Computer Interaction (HCI) in Computer Science but can be adjusted for your needs. 
-These are completely unoffical
-
-# Caution 
-These forms may be incorrect and are intended as a starting point! You take all risks by downloading and reading these forms. 
+https://science.swansea.ac.uk/intranet/safety/ethics_documents - login is required
